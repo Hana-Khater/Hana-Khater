@@ -13,7 +13,7 @@ Hi, I am Hana Khater
 📚 I am a student in my last year in Cairo University - Faculty of Engineering
 📝 I have a strong interest in Digital Electronics Design and Embedded Systems
 🌟 Main languages: Verilog, C, C++, Python
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1uS6Kz9NMCCQ1zKrlaE5mhIwNSZrhf0Fi/view?usp=sharing" target="_blank">MY RESUME.</a>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1_QclnLpERlBP3sb1RHfBtGKM3RbWn7r_/view?usp=sharing" target="_blank">MY RESUME.</a>
 </pre>
 <hr>
 
