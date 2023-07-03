@@ -1,8 +1,5 @@
 <h1 align="center">
 Hi, I am Hana Khater
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://drive.google.com/file/d/1_QclnLpERlBP3sb1RHfBtGKM3RbWn7r_/view?usp=sharing" width="30">
-	</a>
 </h1>
 
 <br/>
